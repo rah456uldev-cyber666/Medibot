@@ -1,0 +1,18 @@
+# secrets
+.env
+# virtual environments
+squirtle/
+venv/
+.venv/
+env/
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+# runtime data
+logs/
+database/medibot.db
+# local model copy is large; keep it out of git (but DO copy it with the project for offline use)
+models/
+mobile/node_modules/

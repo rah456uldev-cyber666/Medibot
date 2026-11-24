@@ -1,0 +1,8 @@
+.env
+squirtle/
+venv/
+.venv/
+__pycache__/
+logs/
+database/medibot.db
+tests/
